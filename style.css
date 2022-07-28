@@ -2,3 +2,13 @@
 * {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+/* Adjusted forecast display to look better with color background */
+.forecast {
+    color: white;
+    padding: 10px;
+    border: dotted 2px skyblue;
+    width: fit-content;
+    background-color: navy;
+    font-size: 15px;
+
+}
