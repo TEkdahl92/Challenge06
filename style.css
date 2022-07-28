@@ -1,0 +1,4 @@
+/* setting the font for the page */
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
