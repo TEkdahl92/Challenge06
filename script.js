@@ -132,7 +132,7 @@ function currentForecast(Lat, Lon) {
     $('#results').append(currentEl);
     $('#results').attr('class', 'border');
     
-    // Changes bacgkround color of UV Index based on favorable or unfavorable conditions. (code from stack overflow help)
+    // Changes background color of UV Index based on favorable or unfavorable conditions. (code from stack overflow help)
     if (uvIndex <= 5) {
         p5.setAttribute('style', 'background-color: green')
     } else if (uvIndex >= 8) {
