@@ -3,6 +3,7 @@
 Hello and welcome to challenge number 6 where the task was to build a weather dashboard that will run in the browser and will display a dynamically updated HTML.
 At first you will just a simple landing page as seen below.
 <!-- Needed a line between -->
+
 ![](assets/images/pre-search.png)<br></br>
 
 Now for a search example I will search for Austin,TX and the page will display the current weather. It will show if its cloudy, sunny, thunderstorms etc. 
