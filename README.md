@@ -13,4 +13,4 @@ It will also display the current date, the temperature, humidity, wind speed and
 <li>Bootstrap questions</li>
 
 <h1>Live page</h1><br>
-Live deployed version of the site can be found at 
+Live deployed version of the site can be found at https://tekdahl92.github.io/Challenge06/
