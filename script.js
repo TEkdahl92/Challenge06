@@ -53,7 +53,8 @@ function getLatLon(e){
     let lon;
 
     // API to retrieve latitude and longitude of a city
-    let geoAPIurl= `https://api.openweathermap.org/geo/1.0/direct?q=${e}&limit=1&appid=46aa886cbc817eec006f6d044987e3b0`
+    let geoAPIurl= `https://api.openweathermap.org/geo/1.0/direct?q=${e}&limit=1&appid=300f3b8a0655e25c67a8ce556ae5c411
+`
 
     // Calls to API
     fetch(geoAPIurl)
@@ -83,7 +84,8 @@ function getLatLon(e){
 // Pulls current forecast from API
 function currentForecast(Lat, Lon) {
 
-    let weatherAPIUrl = `https://api.openweathermap.org/data/2.5/onecall?lat=${Lat}&lon=${Lon}&appid=46aa886cbc817eec006f6d044987e3b0`
+    let weatherAPIUrl = `https://api.openweathermap.org/data/2.5/onecall?lat=${Lat}&lon=${Lon}&appid=300f3b8a0655e25c67a8ce556ae5c411
+`
     fetch(weatherAPIUrl)
     .then(function(response){
     return response.json();
