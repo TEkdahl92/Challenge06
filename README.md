@@ -8,9 +8,9 @@ It will also display the current date, the temperature, humidity, wind speed and
 ![](assets/post-search.png) 
 
 <h1>Credits</h1><br>
-https://getbootstrap.com/
-Youtube tutorials
-Bootstrap questions
+<li>https://getbootstrap.com/</li>
+<li>Youtube tutorials</li>
+<li>Bootstrap questions</li>
 
 <h1>Live page</h1><br>
 Live deployed version of the site can be found at 
