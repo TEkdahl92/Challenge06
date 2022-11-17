@@ -1,6 +1,6 @@
 # Challenge06 - Weather Dashboard
 <h1>Description</h1><br>
-Hello and welcome to challenge number 6 where the task was to build a weather dashboard that will run in the browser and will display a dynamically updated HTML.
+Hello and welcome! I was challenged to a taks where the task was to build a weather dashboard that will run in the browser and will display a dynamically updated HTML.
 At first you will just a simple landing page as seen below.
 <!-- Needed a line between -->
 
